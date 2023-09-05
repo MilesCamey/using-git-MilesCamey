@@ -1,5 +1,8 @@
-# My title
-* Item 1 
-* item 2
-**Bold Item**
-*italicization*
+# Games
+* risk
+* the game of life
+* **Battleship**
+* *clue*
+* ~~mouse trap~~
+* **Big bang theory _monopoly_**
+* ***Spoons***
